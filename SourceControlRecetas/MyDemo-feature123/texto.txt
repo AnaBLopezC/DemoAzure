@@ -6,3 +6,11 @@ blablababababababababab
 hola q tal 
 buenas tardes
 una casa rosa con arboles tan grandes como el cielo 
+
+
+“Me han dicho que he dicho un dicho
+y ese dicho no lo he dicho yo.
+Porque si lo hubiera dicho,
+estaría muy bien dicho por haberlo dicho yo.”
+
+..
